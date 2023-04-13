@@ -36,4 +36,4 @@ jobs:
           echo test, and deploy your project.
       # Runs script.sh
       - name: Run Script
-        run: script.sh
+        run: $bash git-practice/script.sh
