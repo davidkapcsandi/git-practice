@@ -40,4 +40,4 @@ jobs:
         run: ls -al
         
       - name: run script
-        run: bash ./script.sh
+        run: ./script.sh
